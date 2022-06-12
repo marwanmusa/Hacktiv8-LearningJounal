@@ -1,5 +1,5 @@
 # Hacktiv8 - Learning Journal Phase 0
-This Repository are My Learning Journals in Hacktiv8 Bootcamp Phase 0
+This Repository is My Learning Journal in Hacktiv8 Bootcamp Phase 0
 
 Topic of Subject :
 - Introduction to Data Science and Toolbox
